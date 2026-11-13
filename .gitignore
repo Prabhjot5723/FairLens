@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/fake_job_postings.csv
+reports/*.html
+.env
